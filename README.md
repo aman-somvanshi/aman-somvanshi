@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Aman's GitHub Banner](https://i.pinimg.com/564x/bb/0f/30/bb0f3066617f3f8f9c3ef983aad6cc54.jpg)
+
 <h1 align="center">Hi 👋, I'm Aman Somvanshi</h1>
 <h3 align="center">Aspiring Full-Stack Developer | MERN Developer | Innovating with React Native and Appwrite | Building Dynamic apps with expo</h3>
 
