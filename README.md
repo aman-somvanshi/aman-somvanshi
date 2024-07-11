@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Aman Somvanshi</h1>
 <h3 align="center">Aspiring Full-Stack Developer | MERN Developer | Innovating with React Native and Appwrite | Building Dynamic apps with expo</h3>
-![Pac-Man gif](https://github.com/aman-somvanshi/aman-somvanshi/assets/117392892/928caac0-809f-4edd-b2f2-1fa07088d883)
+
 
 
 
