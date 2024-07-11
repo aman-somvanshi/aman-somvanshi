@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  <img src="https://profile-counter.glitch.me/aman-somvanshi/count.svg" />
 </p>
 
