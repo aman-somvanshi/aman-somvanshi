@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Aman Somvanshi</h1>
 <h3 align="center">Aspiring Full-Stack Developer | MERN Developer | Innovating with React Native and Appwrite | Building Dynamic apps with expo</h3>
-![GIF](https://github.com/aman-somvanshi/aman-somvanshi/assets/117392892/15ec4810-ee27-4d54-8fa2-1a936b6dd6de)
+![GIF](https://github.com/aman-somvanshi/aman-somvanshi/blob/main/Pac-Man%20gif.gif)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-somvanshi" alt="aman-somvanshi" /></a> </p>
